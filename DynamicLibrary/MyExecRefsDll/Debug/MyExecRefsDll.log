@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  MyExecRefsDll.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Олег\Desktop\диплом\DynamicLibrary\Debug\MathFuncsDll.lib'

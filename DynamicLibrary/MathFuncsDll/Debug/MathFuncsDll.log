@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\олег\desktop\диплом\dynamiclibrary\debug\mathfuncsdll.dll' is denied.
+  stdafx.cpp
+  dllmain.cpp
+  MathFuncsDll.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Олег\Desktop\диплом\DynamicLibrary\Debug\MathFuncsDll.dll'
